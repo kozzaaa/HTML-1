@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>TABLE</title>
+</head>
+<body bgcolor="pink">
+
+<div>
+    <center>
+        <h2>
+        <table>
+            <TABLE BORDER="3" BORDERCOLOR="purple">
+                <tr>
+                    <td>
+                        <b>
+                            <span style="color gray"> Komórka 1 </span>
+                        </b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>
+                            <span style="color: blue"> Komórka 2</span>
+                        </b>
+                    </td>
+                </tr>
+                    </TABLE>
+            <TABLE BORDER="4" BORDERCOLOR="yellow">
+                <tr>
+                    <td>
+                        <b>
+                            <span style="color: red"> Komórka 3</span>
+                        </b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>
+                            <span style="green"> Komórka 4</span>
+                        </b>
+                    </td>
+                </tr>
+            </TABLE>
+        </table>
+        </h2>
+    </center>
+</div>
+<div>
+    <center>
+        <h2>
+            <table>
+                <TABLE BORDER="4" BORDERCOLOR="white">
+                    <tr>
+                        <td>1</td> <td>2</td> <td>3</td>
+                    </tr>
+                    <tr>
+                        <td>4</td> <td>5</td> <td>6</td>
+                    </tr>
+                    <tr>
+                        <td>7</td> <td>8</td> <td>9</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1">10</td> <td colspan="1">11</td>
+                    </tr>
+                </TABLE>
+            </table>
+        </h2>
+    </center>
+</div>
+
+</body>
+</html>
